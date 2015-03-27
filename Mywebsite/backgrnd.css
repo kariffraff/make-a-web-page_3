@@ -1,0 +1,18 @@
+.greeting { 
+            background-color: cyan ;
+            color: blue ;
+            }
+          .image {
+            background-position: 10px 10px,
+                         center;
+          }
+          .lesson{
+              background: linear-gradient(to bottom, cyan, blue);
+              box-shadow:
+                8px 8px 5px 0px darkblue, 
+                -5px -5px 1px 0px blue, 
+                5px 5px 15px 0px cyan;
+              font: 12px sans-serif;
+              line-height: 1;
+              color: white;
+            }  
